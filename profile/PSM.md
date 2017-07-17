@@ -1,5 +1,10 @@
-# Park Sang Min
-## jigeria@naver.com
+# Profile
+================
 
-## 대덕SW마이스터고등학교
-## 20305
+
+## Name : Prak sang-min
+## School : 대덕SW마이스터 고등학교
+
+
+
+ 
