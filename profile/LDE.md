@@ -1,5 +1,8 @@
-# Lim Do Eun
+# Lim DoEun
 
-- xade7890@gmail.com
-- Korea Digital Media High School 15th **Web Programing**
+# Korea Digital Media High School 15th
+
+# xade7890@gmail.com
+
+# xade7890@gmail.com
 
