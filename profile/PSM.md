@@ -1,9 +1,14 @@
 # Profile
 ================
+## Name : Park sang-min
+
+## School : Daedeok Software Meister High School, Second
+
+## Github email : jigeria@naver.com
+
+## Slack email : jigeria114@gmail.com
 
 
-## Name : Prak sang-min
-## School : 대덕SW마이스터 고등학교
 
 
 
