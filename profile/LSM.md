@@ -1,2 +1,2 @@
-#Soomin Lee
-##magmatart@gmail.com
+# Soomin Lee
+## magmatart@gmail.com
