@@ -51,9 +51,16 @@
 
 ### 소프트웨어에 대한 설명(16분)
 - 소프트웨어의 현주소, 일상생활의 적용된 사례(6분)
-	- 기존 사례 영상 상영(2가지 정도)
+	```
+	관련 영상 시청
+	(AMICA) https://www.youtube.com/watch?v=gtyN4YYzXcQ
+	(Self Driving) https://www.youtube.com/watch?v=BGd0KywZWyI
+	```
 - 소프트웨어의 미래(10분)
-	- 관련 영상 상영
+	```
+	관련 영상 시청
+	(Humans) https://www.youtube.com/watch?v=wtdtU4mqqig
+	```
 
 ### 아두이노 구조와 문법 설명(45분)
 - 아두이노 구조 설명(5분)
@@ -74,6 +81,7 @@
 		- setup(), pinMode() 함수 설명(10분)
 			- ‘□번 핀을 □으로 설정하기’ 바탕으로 설명 
 			- setup()
+				- 프로그램이 실행될 때, "한 번만" 실행되는 공간
 				- 입/출력 핀을 설정할 수 있는 공간 
 					- ex) LED와 연결된 핀을 출력으로 설정할 수 있는 공간
 			- pinMode()
@@ -84,6 +92,7 @@
 		- loop(), digitalWrite() 함수 설명(10분)
 			- ‘□번 핀 켜기 / 끄기’ 바탕으로 설명
 			- loop()
+				- 프로그램이 실행되면서 "반복해서" 실행하는 공간
 				- 자신이 만든 프로그램이 실행되는 공간
 				- ex) LED를 켜고 끌 수 있는 공간
 			- digitalWrite()
